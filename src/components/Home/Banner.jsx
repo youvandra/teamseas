@@ -30,7 +30,7 @@ function Banner() {
             </h3>
           </div>
           <div className="box">
-            <div className="text">LAUNCHED ON : 1st January 2022 UTC</div>
+            <div className="text">MINTING IS LIVE</div>
             {wallet_ && (
               <div className="text">{datas?.[0] + "/" + datas?.[1]}</div>
             )}
